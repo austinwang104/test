@@ -1,0 +1,1 @@
+docker cp /d/DB_DUMPS new-mariadb:/DB_DUMPS
