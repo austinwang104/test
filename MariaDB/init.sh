@@ -1,0 +1,1 @@
+docker run --name new-mariadb -p 3306:3306 -v $(pwd)/mysql/mysql:/var/lib/mysql/mysql -e MYSQL_ROOT_PASSWORD=Abcd1234 -d mariadb:10.3.11-bionic
