@@ -1,1 +1,1 @@
-docker run --name vm-mariadb -p 3308:3306 -v /d/mysql:/var/lib/mysql -d mariadb:10.3.11
+docker run --name new-mariadb -p 3306:3306 -e MYSQL_ROOT_PASSWORD=ehrms2 -v /d/DB_DUMPS:/DB_DUMPS -v /d/mysql:/var/lib/mysql:rw -it mariadb bash
