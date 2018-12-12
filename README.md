@@ -1,8 +1,14 @@
+# 準備安裝
+
+
 # vm env
 - 172.19.5.123
 - proxy ip
     - http://sproxy.104-dev.com.tw:3128
     - ntpdate ip 172.19.254.5 172.19.254.6
+
+    - curl -x http://sproxy.104-dev.com.tw:3128
+
 
 # maria db
 - 建立好啟動語法，相關的mysql directory需要備份出來。
