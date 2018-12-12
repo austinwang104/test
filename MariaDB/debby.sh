@@ -1,0 +1,1 @@
+docker run --name debby-mariadb -p 3308:3306 -e MYSQL_ROOT_PASSWORD=MariaDB104 -v /d/DB_DUMPS:/DB_DUMPS -v /d/DEBBY_DB:/var/lib/mysql -it mariadb:10.3.11-bionic bash
