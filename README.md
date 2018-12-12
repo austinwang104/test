@@ -1,3 +1,11 @@
+# github的專案說明
+- 104corp / ehrms2portal_Authorize 認證
+- 104corp / ehrms2 2.0的專案不是我們的focus
+- 104corp / ehrms2OrgChartVisio 2.0的專案不是我們的focus
+- 104corp / ehrms2_SA 文件
+- 104corp / ehrms2portal 前台
+- 104corp / ehrms2portal_SC 後台
+
 # 準備安裝
 
 
